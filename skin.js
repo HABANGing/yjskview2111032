@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.1.2/20913
 // Filename: ?? ?? ?? ????.ggsk
-// Generated 2024-12-26T10:32:48
+// Generated 2024-12-26T17:52:17
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_floorplan', 2, false, { ignoreInState: 0  });
@@ -648,7 +648,7 @@ function pano2vrSkin(player,base) {
 		el=me._svg_4=document.createElement('div');
 		els=me._svg_4__img=document.createElement('img');
 		els.className='ggskin ggskin_svg';
-		hs='data:image/svg+xml;base64,PHN2ZyBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGhlaWdodD0iMjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1vcGFjaXR5PSIxIiBjbGFzcz0iZmVhdGhlciBmZWF0aGVyLWNoZXZyb24tZG93biIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjQiIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNCAyNCI+CiA8cG9seWxpbmUgcG9pbnRzPSI2IDkgMTIgMTUgMTggOSIvPgo8L3N2Zz4K';
+		hs='data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2U9IiNmZmZmZmYiIGhlaWdodD0iMjQiIGNsYXNzPSJmZWF0aGVyIGZlYXRoZXItY2hldnJvbi1kb3duIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgc3Ryb2tlLW9wYWNpdHk9IjEiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHdpZHRoPSIyNCI+CiA8cG9seWxpbmUgcG9pbnRzPSI2IDkgMTIgMTUgMTggOSIvPgo8L3N2Zz4K';
 		me._svg_4__img.setAttribute('src',hs);
 		hs ='';
 		hs += 'position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;';
@@ -1404,7 +1404,7 @@ function pano2vrSkin(player,base) {
 		el=me._svg_1=document.createElement('div');
 		els=me._svg_1__img=document.createElement('img');
 		els.className='ggskin ggskin_svg';
-		hs='data:image/svg+xml;base64,PHN2ZyBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGhlaWdodD0iMjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1vcGFjaXR5PSIxIiBjbGFzcz0iZmVhdGhlciBmZWF0aGVyLW1pbnVzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI0IDI0Ij4KIDxsaW5lIHgyPSIxOSIgeDE9IjUiIHkyPSIxMiIgeTE9IjEyIi8+Cjwvc3ZnPgo=';
+		hs='data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2U9IiNmZmZmZmYiIGhlaWdodD0iMjQiIGNsYXNzPSJmZWF0aGVyIGZlYXRoZXItbWludXMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgc3Ryb2tlLW9wYWNpdHk9IjEiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0Ij4KIDxsaW5lIHkyPSIxMiIgeDE9IjUiIHgyPSIxOSIgeTE9IjEyIi8+Cjwvc3ZnPgo=';
 		me._svg_1__img.setAttribute('src',hs);
 		hs ='';
 		hs += 'position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;';
@@ -1473,7 +1473,7 @@ function pano2vrSkin(player,base) {
 		el=me._svg_2=document.createElement('div');
 		els=me._svg_2__img=document.createElement('img');
 		els.className='ggskin ggskin_svg';
-		hs='data:image/svg+xml;base64,PHN2ZyBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGhlaWdodD0iMjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1vcGFjaXR5PSIxIiBjbGFzcz0iZmVhdGhlciBmZWF0aGVyLXBsdXMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjI0IiBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMjQgMjQiPgogPGxpbmUgeDI9IjEyIiB4MT0iMTIiIHkyPSIxOSIgeTE9IjUiLz4KIDxsaW5lIHgyPSIxOSIgeDE9IjUiIHkyPSIxMiIgeTE9IjEyIi8+Cjwvc3ZnPgo=';
+		hs='data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2U9IiNmZmZmZmYiIGhlaWdodD0iMjQiIGNsYXNzPSJmZWF0aGVyIGZlYXRoZXItcGx1cyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBzdHJva2Utb3BhY2l0eT0iMSIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiPgogPGxpbmUgeTI9IjE5IiB4MT0iMTIiIHgyPSIxMiIgeTE9IjUiLz4KIDxsaW5lIHkyPSIxMiIgeDE9IjUiIHgyPSIxOSIgeTE9IjEyIi8+Cjwvc3ZnPgo=';
 		me._svg_2__img.setAttribute('src',hs);
 		hs ='';
 		hs += 'position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;';
@@ -3153,7 +3153,7 @@ function pano2vrSkin(player,base) {
 		el=me._svg_3=document.createElement('div');
 		els=me._svg_3__img=document.createElement('img');
 		els.className='ggskin ggskin_svg';
-		hs='data:image/svg+xml;base64,PHN2ZyBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgaGVpZ2h0PSIyNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2Utd2lkdGg9IjEuNSIgY2xhc3M9ImZlYXRoZXIgZmVhdGhlci1wbHVzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI0IDI0Ij4KIDxsaW5lIHgyPSIxMiIgeDE9IjEyIiB5Mj0iMTkiIHkxPSI1Ii8+CiA8bGluZSB4Mj0iMTkiIHgxPSI1IiB5Mj0iMTIiIHkxPSIxMiIvPgo8L3N2Zz4K';
+		hs='data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgaGVpZ2h0PSIyNCIgY2xhc3M9ImZlYXRoZXIgZmVhdGhlci1wbHVzIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgd2lkdGg9IjI0Ij4KIDxsaW5lIHkyPSIxOSIgeDE9IjEyIiB4Mj0iMTIiIHkxPSI1Ii8+CiA8bGluZSB5Mj0iMTIiIHgxPSI1IiB4Mj0iMTkiIHkxPSIxMiIvPgo8L3N2Zz4K';
 		me._svg_3__img.setAttribute('src',hs);
 		hs ='';
 		hs += 'position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;';
@@ -3782,7 +3782,7 @@ function pano2vrSkin(player,base) {
 		el=me._svg_4m=document.createElement('div');
 		els=me._svg_4m__img=document.createElement('img');
 		els.className='ggskin ggskin_svg';
-		hs='data:image/svg+xml;base64,PHN2ZyBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGhlaWdodD0iMjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1vcGFjaXR5PSIxIiBjbGFzcz0iZmVhdGhlciBmZWF0aGVyLWNoZXZyb24tZG93biIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjQiIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNCAyNCI+CiA8cG9seWxpbmUgcG9pbnRzPSI2IDkgMTIgMTUgMTggOSIvPgo8L3N2Zz4K';
+		hs='data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2U9IiNmZmZmZmYiIGhlaWdodD0iMjQiIGNsYXNzPSJmZWF0aGVyIGZlYXRoZXItY2hldnJvbi1kb3duIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgc3Ryb2tlLW9wYWNpdHk9IjEiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHdpZHRoPSIyNCI+CiA8cG9seWxpbmUgcG9pbnRzPSI2IDkgMTIgMTUgMTggOSIvPgo8L3N2Zz4K';
 		me._svg_4m__img.setAttribute('src',hs);
 		hs ='';
 		hs += 'position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;';
